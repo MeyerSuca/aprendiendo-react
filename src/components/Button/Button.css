@@ -1,0 +1,18 @@
+.button {
+    background-color: rgb(27, 27, 27);
+    border-radius: 15px;
+    border: 1px solid #fff;
+}
+
+#valor {
+    border-radius: 10px;
+    background-color: rgb(27, 27, 27);
+    padding: 12px;
+    margin: 0 15px 0 0;
+}
+
+#salida {
+    border-radius: 10px;
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+}
